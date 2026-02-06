@@ -15,6 +15,15 @@ Thanks to this structure, users can explore important analytical questions such 
 
 Overall, this project provides a solid foundation for future Business Intelligence (BI) applications by connecting athletic performance with organizational and financial dimensions of professional basketball.
 
+## Project Structure
+
+- create.sql — database schema definition
+- insert.sql — sample data population
+- queries.sql — analytical SQL queries
+- main.xml / sproject.dtd — XML representation of the project (academic requirement)
+- sproject_html.* — presentation/export files
+- Conceptual Scheme of db project.jpg — conceptual ER schema
+
 ## Author
 This project was created by Igor Belyakov as an academic semester project  
 (Faculty of Economics and Management, CZU Prague).
